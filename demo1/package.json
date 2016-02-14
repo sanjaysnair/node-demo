@@ -1,0 +1,14 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "simple demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
